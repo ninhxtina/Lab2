@@ -1,0 +1,6 @@
+# Lab2
+## Summary
+Build a set of small and simple classes to represent a Date, a Point on a 2D map, and a list of integers such as {3,5,-2}. Once you’ve practiced building smaller classes, we’ll build a few larger classes that share much in common – the Circle and the Square. We’ll end our class design by taking our IntList class and changing it to an ObjectList (or Picture) class that can store any object types, such as {Circle, Square, String}. On completion, we’ll have practiced the following concepts with our code: getters/setters, access modifiers, overloading constructors, equality, and overriding toString().
+
+## Introduction
+This lab is meant to serve as a reintroduction to Java programming, using familiar constructs such as primitives, arrays, and instantiating Objects from custom Classes we build here. By building user- defined classes, we are also taking our first steps towards understanding Object-Oriented Programming. Note that we will not use inheritance directly for this project, but once we’ve covered more regarding this technique, we will certainly revisit and improve this code. In the lab below, answer all questions in the form of comments at the top of any of your code files or as a separate text file.
